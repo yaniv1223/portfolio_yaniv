@@ -1,7 +1,7 @@
 import Styles from './projectsStyles.module.css'
 import ProjectsCard from '../../common/ProjectCard'
 import viberr from '../../../assets/viberr.png'
-import freshBurger from '../../../assets/fresh-Burger.png'
+import freshBurger from '../../fresh-Burger.png'
 function Projects() {
     return( 
       <section id="projects" className={Styles.container}>
