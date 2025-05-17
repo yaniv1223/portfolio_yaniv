@@ -1,4 +1,3 @@
-import React from 'react'
 import Styles from './ProjectsStyles.module.css'
 import ProjectsCard from '../../common/ProjectCard'
 import viberr from '../../../assets/viberr.png'
